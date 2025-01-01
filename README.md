@@ -1,7 +1,0 @@
-#Structureoutput-Code-execution-fuctionalcalling
-
-  
-
-
-
-
